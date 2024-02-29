@@ -13,6 +13,10 @@ This is a simple Tic Tac Toe game implemented as a web application using HTML, J
 
 4. **Draw**: If the entire board is filled without a winner, the game is a draw.
 
+
+#DEMO
+https://i-rohitkr.github.io/tic-tac-toe/
+
 ## Features
 
 - **Responsive Design**: The game is designed to be playable on various screen sizes, making it accessible on both desktop and mobile devices.
